@@ -1,4 +1,4 @@
-## Exploratory-data-analysis-for-a-better-understanding-of-data
+## Exploratory-data-analysis-for-building_ a_better-machine learning model
 
 #### Building Machine Learning Pipelines
 
